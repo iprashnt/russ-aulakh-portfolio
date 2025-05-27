@@ -1,0 +1,41 @@
+.coder-info {
+  background: linear-gradient(to right, #0a0d37, #0d1224);
+  border: 1px solid #1b2c68a0;
+  border-radius: 8px;
+  padding: 20px;
+  color: white;
+}
+
+.user-comments {
+  margin-top: 20px;
+}
+
+.user-comments h3 {
+  color: #f0f0f0;
+}
+
+.user-comments ul {
+  list-style: none;
+}
+
+.user-comments li {
+  margin-bottom: 10px;
+}
+
+.user-comments a {
+  color: #4b8bec;
+  text-decoration: none;
+}
+
+.hideOnSmallScreens {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 900px) {
+  /* Elements to hide on screens smaller than 900px */
+  /* .hideOnSmallScreens {
+    display: none;
+  } */
+}
