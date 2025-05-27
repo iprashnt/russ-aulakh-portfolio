@@ -43,3 +43,6 @@ Open http://localhost:3000 with your browser to see the result.
 - react-toastify
 - sass
 - tailwindcss
+
+# Screenshots
+![Images](https://github.com/user-attachments/assets/e2e47d7c-d88c-49a0-ac9d-38598d0007a7)
